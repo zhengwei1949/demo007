@@ -1,0 +1,10 @@
+var a = 1;
+var b = 2;
+var c = 3;
+var d = 5;
+var e = 4;
+var f = 3;
+var g = 5;
+var wfw = 300;
+var m = 20;
+console.log(a + b);
