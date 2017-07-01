@@ -8,3 +8,4 @@ var g = 5;
 var wfw = 300;
 var m = 20;
 console.log(a + b);
+console.log(100);
